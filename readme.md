@@ -3,6 +3,7 @@
 
 Dockerfile for installation of [matrix] open federated Instant Messaging and
 VoIP communication server.
+Modified version to run on arm.
 
 [matrix]: matrix.org
 
