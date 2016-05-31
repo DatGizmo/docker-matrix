@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM resin/rpi-raspbian
 
 # Maintainer
 MAINTAINER Silvio Fricke <silvio.fricke@gmail.com>
